@@ -1,0 +1,8 @@
+C:\Users\亚杰\Desktop\DoubanBookLibrary\DoubanBookLibrary\bin\Debug\DoubanBookLibrary.dll
+C:\Users\亚杰\Desktop\DoubanBookLibrary\DoubanBookLibrary\bin\Debug\DoubanBookLibrary.pdb
+C:\Users\亚杰\Desktop\DoubanBookLibrary\DoubanBookLibrary\obj\Debug\DoubanBookLibrary.dll
+C:\Users\亚杰\Desktop\DoubanBookLibrary\DoubanBookLibrary\obj\Debug\DoubanBookLibrary.pdb
+C:\Users\亚杰\Desktop\DoubanBookLibrary\DoubanBookLibrary\bin\Debug\HtmlAgilityPack.dll
+C:\Users\亚杰\Desktop\DoubanBookLibrary\DoubanBookLibrary\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\亚杰\Desktop\DoubanBookLibrary\DoubanBookLibrary\bin\Debug\HtmlAgilityPack.xml
+C:\Users\亚杰\Desktop\DoubanBookLibrary\DoubanBookLibrary\obj\Debug\DoubanBookLibrary.csprojResolveAssemblyReference.cache
